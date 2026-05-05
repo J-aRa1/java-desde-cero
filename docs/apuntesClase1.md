@@ -13,7 +13,7 @@ imprimiendo codigo lo que nos permite usar solo un print pero imprimir codigo en
 para generarnos un mensaje en color rojo, la sentencias es: System.err.println()
 
 ## **VARIABLES Y CONSTANTES**
-## **Las variables**
+## **Las Variables**
 las variables como su propio nombre lo indica son valores que van a cambiar constantemente a medida que nosotros 
 vayamos reasignando valores a las mismas, entonces, a modo de analogía asociamos a las varibales de la siguiente
 manera: es una caja de un tipo especifico que tiene un nombre y un contenido dentro, como por ejemplo:
@@ -35,6 +35,13 @@ minusculas:
 - boolean
 
 Estos si son tipos de variables que nos permiten almacenar datos los datos primitivos de java y como podemos ver su sintaxis 
-es en minusculas 
+es en minusculas.
+
+## ** Las Constantes**
+Como su nombre lo indica son valores que son constantes desde que los definimos es decir que no los vamos a poder
+cambiar en ningun momentos y se las define completamente en mayusculas y con la palbra reservada final
+
+Ejemplo de definición de una constante:
+final double IVA = 0.15; 
 
 

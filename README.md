@@ -14,4 +14,7 @@ Link del curso: https://youtu.be/JOAqpdM36wI?si=gsL9ddMiUfht54bT
 - [] **Sesión 4 ():**
 
 ---
-## 📓 Notas de la clase
+## 📂 Estructura del Proyecto
+*   **`src/`**: Contiene todos los archivos `.java`, organizados por temas y los retos prácticos propuestos en el curso.
+*   **`docs/`**: Espacio exclusivo para mis apuntes teóricos en archivos `.md`
+*   **`README.md/`**: Bitacora principal del proyecto

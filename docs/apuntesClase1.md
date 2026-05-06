@@ -51,3 +51,5 @@ var nombre = "Josue";
 No le estamos deciendo a java directamente que vamos a definir un String pero el lo infiere, aunque igual es importante
 recordar que si nosotros creamos una varibale con var y su contenido es de tipo string no lo vamos a poder cambiar despues. 
 
+Tiempo del video: 1:43:00
+

@@ -22,3 +22,14 @@ es decir que si nosotros definimos una variable por ejemplo:
 a = 3; y luego hacemos a+= 1; el resultado de a es 4 ya que es lo mismo que poner a = a + 1, y es exactamente lo mismo con 
 los demás operadores de asginación directa. 
 
+## **Operadores de comparación o relacionales**
+Estos son operadores que al trabajar con varibales nos devuelven un valor de true o false, el primero operador de compración que se 
+va a estudiar es el "==" que compara si dos variables son exactamente iguales, pero solo con variables de tipo primitivo, ya que si lo hacemos con un objeto como String 
+en realidad lo que estaríamos haciendo es comparar su espacio en memoria.
+Pero por otro lado tambien tenemos un operador para ver si dos variables son distintas entre sí, y eso lo hacemos con el operador
+"!=", por último tenemos a los operadores de comparación más comunes que son:
+- "<" menor 
+- "<=" menor o igual que 
+- ">" mayor 
+- ">=" mayor o igual que 
+

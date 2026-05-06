@@ -17,6 +17,7 @@ Link del curso: https://youtu.be/JOAqpdM36wI?si=gsL9ddMiUfht54bT
 ## 📂 Estructura del Proyecto
 *   **`src/`**: Contiene todos los archivos `.java`, organizados por temas y los retos prácticos propuestos en el curso.
 *   **`docs/`**: Espacio exclusivo para mis apuntes teóricos en archivos `.md`
+*   **`ejerciciosAutonomos/`**: Proyectos autonomos donde aplicaré todo lo aprendido en el curso.
 *   **`security-lab/`**: Proyectos autónomos enfocados en ciberseguridad (criptografía básica, validadores de seguridad, análisis de logs, etc.).
 *   **`README.md/`**: Bitacora principal del proyecto
 

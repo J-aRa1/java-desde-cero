@@ -3,7 +3,7 @@ public class ejercicioAutonomo1 {
     // Ejercicio sacado de: https://github.com/mouredev/retos-programacion-2023/tree/main
 
     /*
-     * --- EJERCICIO AUTONOMO 1 ---
+     * --- EJERCICIO AUTONOMO 1 --- EL FAMOSO FIZZ BUZZ
      * Escribe un programa que muestre por consola (con un print) los
      * números de 1 a 100 (ambos incluidos y con un salto de línea entre
      * cada impresión), sustituyendo los siguientes:

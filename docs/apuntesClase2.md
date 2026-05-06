@@ -9,3 +9,16 @@ sin embargo, si yo asigno dos variables enteras y las divido, su resultado tambi
 es de tipo decimal el resultado va a ser decimal. 
 - "%" para el módulo de una división es decir el residuo de una división, por ejemplo:
 16 % 4 = 0
+
+## **Operadores de asiganación**
+Son los operadores que nos ayudan a asiganrle un valor a la variable, no es de asombrarse que el operador más conocido para
+asignarle un valor a una variable es el "=" sin embargo hay otros operadores de asignación que no solo nos permiten adognarle un 
+valor a la varible, si no tambien operar al mismo tiempo como es el caso de:
+- "+="
+- "-="
+- "*="
+- "/="
+es decir que si nosotros definimos una variable por ejemplo:
+a = 3; y luego hacemos a+= 1; el resultado de a es 4 ya que es lo mismo que poner a = a + 1, y es exactamente lo mismo con 
+los demás operadores de asginación directa. 
+

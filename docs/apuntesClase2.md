@@ -33,3 +33,9 @@ Pero por otro lado tambien tenemos un operador para ver si dos variables son dis
 - ">" mayor 
 - ">=" mayor o igual que 
 
+## **Operadores Lógicos**
+Son operadores que se utilizan para trabajar con variables de tipo boolean y son:
+- "&&" and
+- "||" or 
+- "!" not
+

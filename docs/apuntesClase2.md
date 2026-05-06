@@ -39,3 +39,15 @@ Son operadores que se utilizan para trabajar con variables de tipo boolean y son
 - "||" or 
 - "!" not
 
+## **Operadores Unarios**
+Son operadores que se utilizan para trabajar solo sobre una varible como por ejemplo -a, si es que el valor de a era 3 ahora va a ser -3
+los operadores unarios son:
+
+- "+a" Aumenta el + al valor de a
+- "-a" Aumenta el - al valor de a
+- "a++" Evalua a y luego lo incrementa 
+- "++a" Incrementa a y luego lo evalua 
+- "a--" Evalua a y luego lo decrementa
+- "--a" Decrementa a y luego lo evalua 
+
+Tiempo de video: 2:14:45

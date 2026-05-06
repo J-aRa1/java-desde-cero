@@ -39,5 +39,19 @@ public class EjerciciosVaribales_y_Constantes {
         int suma = a+b;
         System.out.println(suma);
 
+        // 9. Imprime el tipo de dos varibles definidas anteriormente
+
+        String nombre9 = "Java";
+        Integer num9 = 2;
+
+        System.out.println(nombre.getClass().getSimpleName());
+        System.out.println(num9.getClass().getSimpleName());
+        //Algo importante es que al utilizar .getClass solo lo podemos hacer con el String y no con los tipos de variables
+        // primitivas como int, por ello para poder imprimir el tipo de num9 utilicé Integer.
+
+        // 10. Intenta declarar una varibale sin inicializarla y luego asignale un valor antes de imprimirla
+        String color;
+        color = "Rojo";
+        System.out.println("El color que se eligió fue: "+color);
     }
 }

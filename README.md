@@ -8,8 +8,8 @@ Link del curso: https://youtu.be/JOAqpdM36wI?si=gsL9ddMiUfht54bT
 
 ---
 ## 📚 Índice de contenidos
-- [x] **Sesión 1 (05/05/2026):** Hola Mundo y Sintaxis básica
-- [] **Sesión 2 ():** 
+- [x] **Sesión 1 (27/04/2026):** Hola Mundo, Sintaxis básica con ejercicios, variables y constantes 
+- [] **Sesión 2 (05/05/2026):** 
 - [] **Sesión 3 ():**
 - [] **Sesión 4 ():**
 

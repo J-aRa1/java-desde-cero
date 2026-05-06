@@ -19,7 +19,7 @@ vayamos reasignando valores a las mismas, entonces, a modo de analogía asociamo
 manera: es una caja de un tipo especifico que tiene un nombre y un contenido dentro, como por ejemplo:
 
 - **String:** tipo especifico de la caja
-- **name:** nombre de la caja (puede ser cualquiera, aunque hay ciertas reglas que tenemos que seguir)
+- **name:** nombre de la caja (puede ser cualquiera, aunque hay ciertas "reglas" que tenemos que seguir)
 - **"Josue":** es el contenido de la caja, recordando que un String se lo define entre comillas dobles
 
 Pero tenemos que recordar que String es un clase que sirve para guardar cadenas de texto no datos primitivos,
@@ -44,4 +44,10 @@ cambiar en ningun momentos y se las define completamente en mayusculas y con la 
 Ejemplo de definición de una constante:
 final double IVA = 0.15; 
 
+## **Inferencia de tipos**
+Tambien podemos definir cualquier variable con la palabra reservada var así java infiere un tipo de varibale sin que nosotros 
+tengamos que hacerlo manuelmente es decir que podemos definir una variable así:
+var nombre = "Josue"; 
+No le estamos deciendo a java directamente que vamos a definir un String pero el lo infiere, aunque igual es importante
+recordar que si nosotros creamos una varibale con var y su contenido es de tipo string no lo vamos a poder cambiar despues. 
 

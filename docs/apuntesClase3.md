@@ -30,5 +30,6 @@ argumento es decir si nosotros usamos el mismo ejemplo de antes
 - varibaleEjemplo.charAt() Dentro del parentesis debemos especificar la posición del caracter que nosotros queremos obtener teniendo en cuanta que los valores inician en 0. 
 Entonces si nosotros colacamos el 0 dentro de los parentesis del ejemplo nos imprimiría la primera letra de la variable.
 
+ Video: 2:25:00
   
 

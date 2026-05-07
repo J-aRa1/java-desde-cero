@@ -16,5 +16,19 @@ y la sentencia se vería algo así println(nombre + apellido) teniendo en cuenta
 
 --- 
 ## **lenght**
-Cuando nosotros trabajos con Strings
+Cuando nosotros trabajos con Strings muchas veces nos conviene saber cuál es la longitud del String con el que estamos trabajando, 
+para eso usamos .lenght esto lo hacemos siempre y cuando vaya seguido de una variable definida ya que el lenght funciona de la siguiente forma:
+- varibaleEjemplo.lenght 
+
+Asi entonces si nososotros almacenos esa nueva varibale y la imprimimos nos daría un numero con la longitud de la variable, pero es muy importante recordar
+que en java los espacios entre letras tambien ocupan espacio en la longitud de la variable. 
+
+---
+## **charAt**
+Nos sirve cuando nosotros queremos saber el caracter de una posicion especifica de nuestro String ya que a diferencia del .lenght el charAt utiliza un 
+argumento es decir si nosotros usamos el mismo ejemplo de antes
+- varibaleEjemplo.charAt() Dentro del parentesis debemos especificar la posición del caracter que nosotros queremos obtener teniendo en cuanta que los valores inician en 0. 
+Entonces si nosotros colacamos el 0 dentro de los parentesis del ejemplo nos imprimiría la primera letra de la variable.
+
+  
 

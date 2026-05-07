@@ -10,7 +10,7 @@ Link del curso: https://youtu.be/JOAqpdM36wI?si=gsL9ddMiUfht54bT
 ## 📚 Índice de contenidos
 - [x] **Sesión 1 (27/04/2026):** Hola Mundo, Sintaxis básica con ejercicios, variables y constantes. 
 - [X] **Sesión 2 (05/05/2026):** Ejercicios de varibles y constantes y los tipos de operadores.
-- [] **Sesión 3 (06/05/2026):** Ejercicios de operadores
+- [X] **Sesión 3 (06/05/2026):** Ejercicios de operadores, ejercicio autonomo 1 y apuntes de la clase 3 del uso de los Strings
 - [] **Sesión 4 ():**
 
 ---

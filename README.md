@@ -24,3 +24,12 @@ Link del curso: https://youtu.be/JOAqpdM36wI?si=gsL9ddMiUfht54bT
 ---
 ## 🛡️ Laboratorio de Ciberseguridad (Security-Lab)
 En esta sección desarrollo programas propios para aplicar Java en entornos de seguridad en base a lo que iré aprendiendo:
+
+---
+## 🛡️ Seguridad y Verificación
+
+Este repositorio utiliza **Firmas GPG (GNU Privacy Guard)** para garantizar la integridad y autenticidad de cada contribución.
+
+- **Algoritmo:** RSA 4096 bits.
+- **Verificación:** Todos los commits están firmados digitalmente. Puedes verificar la validez de los cambios buscando la etiqueta `Verified` en el historial de commits de GitHub.
+- **Propósito:** Implementar estándares de **No Repudio** y asegurar que el código fuente no ha sido alterado por terceros.

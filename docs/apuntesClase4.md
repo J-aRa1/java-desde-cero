@@ -8,7 +8,7 @@ El primero es donde solo usamos el número de ubicación de caulquier caracter d
 puesta en los parentesis hasta el final, sin embargo tambien podemos poner un principio y un fin exacto al definir obvimente 2 numeros en el parentesis, por ejemplo
 si yo quiero imprimir de la posición 1 hasta la 5 son los números que tendremos que poner en el parentesis, sin embargo como ya lo vimos el primer caracter para java siempre es 0.
 ``` java
-public class Ejemplo {
+public class Ejemplo_substring {
     public static void main(String[] args) {
     String fraseLarga = "El éxito es la suma de pequeños esfuerzos repetidos día tras día.";
     String fraseLargaCortada = fraseLarga.substring(15);
@@ -24,5 +24,4 @@ public class Ejemplo {
     }
 }
 ```
----
-## ****
+
